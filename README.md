@@ -1,0 +1,16 @@
+# otwtm
+Vertical shooting game made in python
+
+Use the OTWTM_final.py file to open the game. This file can be found within the ZIP folder attached. 
+
+
+How to Play:
+Press the DOWN key to start. 
+
+Use the LEFT and RIGHT keys to move your ship left and right.
+
+Use the UP key to shoot bullets. Shoot bullets at Space Junk (Blue) or Asteroids (Gray). 
+
+Press SPACE to quit.
+
+Press the mouse to restart. 
